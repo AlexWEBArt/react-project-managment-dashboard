@@ -1,11 +1,11 @@
 {
   "name": "react-project-managment-dashboard",
   "private": true,
+  "repository": "https://github.com/react-project-managment-dashboard.git",
+  "homepage": "https://alexwebart.github.io/react-project-managment-dashboard",
+  "author": "AlexWEBArt",
   "version": "0.0.0",
   "type": "module",
-  "repository": "https://github.com/react-project-managment-dashboard.git",
-  "homepage": "https://alexwebart.github.io/react-project-managment-dashboard/",
-  "author": "AlexWEBArt",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

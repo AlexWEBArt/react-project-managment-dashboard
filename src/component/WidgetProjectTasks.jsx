@@ -76,7 +76,8 @@ export const WidgetProjectTasks = () => {
                                 activeTasks.title
                             }
                             {
-                                openDropDownMenu &&
+                                openDropDownMenu 
+                                &&
                                 <div className="select-container">
                                     {
                                         stats.map(stat => renderTasksSwitcher(stat))
